@@ -1,8 +1,12 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+
 
 .textCeles {
     text-align: center;
 }
+
+
+
+.BorderT {
+    border: 1px solid black;
+}
+
