@@ -1,4 +1,31 @@
 
+.index{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding-left: 5em;
+    background-image: url(../img/240_F_721230123_V9OYta4f77g1KPN8DfLJ84MRx3BEioCn.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.bodyBorder{
+    border: 2em solid white;
+    background-color: white;
+}
+
+.ulIndex{
+    list-style: none;
+
+}
+
+
+
+
+.indexTitol{
+    color: blue;
+}
+
 
 .textCeles {
     text-align: center;
